@@ -66,6 +66,8 @@ public class ForecastFragment extends Fragment {
 
     private Vector<ContentValues> cVVector;
 
+
+
     public ForecastFragment() {
     }
 
@@ -80,6 +82,7 @@ public class ForecastFragment extends Fragment {
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
         inflater.inflate(R.menu.forecastfragment, menu);
+        Log.d(TAG, "onCreateOptionsMenu: " + menu);
 
     }
 
