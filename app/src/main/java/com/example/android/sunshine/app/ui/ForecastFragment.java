@@ -82,7 +82,6 @@ public class ForecastFragment extends Fragment {
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
         inflater.inflate(R.menu.forecastfragment, menu);
-        Log.d(TAG, "onCreateOptionsMenu: " + menu);
 
     }
 
@@ -102,7 +101,7 @@ public class ForecastFragment extends Fragment {
             openPreferredLocationInMap();
             return true;
         }
-
+        Log.i(TAG, "onCreateOptionsMenu: " + item);
         return super.onOptionsItemSelected(item);
     }
 
