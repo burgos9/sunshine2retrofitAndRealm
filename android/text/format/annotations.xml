@@ -1,0 +1,5 @@
+<root>
+  <item name='android.text.format.Time'>
+    <annotation name='java.lang.annotation.Deprecated' />
+  </item>
+</root>

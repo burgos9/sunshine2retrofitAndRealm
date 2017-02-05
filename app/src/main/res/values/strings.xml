@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+         Used in Action Bar, and in AndroidManifest to tell the device the name of this app.
+         It's to keep this short, so your launcher icon isn't displayed with "The greatest Wea"
+         or something similar.
+    -->
+    <string name="app_name">Sunshine</string>
+
+    <!--
+         By convention, "action" denotes that this String will be used as the label for an Action,
+         typically from the action bar.  The ActionBar is limited real estate, so shorter is better.
+    -->
+    <string name="action_settings">Settings</string>
+    <string name="action_map">Map</string>
+    <string name="action_share">Share</string>
+
+    <!-- Menu label to fetch updated weather info from the server -->
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <!-- Strings Preferences -->
+    <string name="pref_weather_category_title">Weather Settings</string>
+
+    <string name="pref_location_key" translatable="false" >location</string>
+    <string name="pref_location_default" translatable="false" >48015</string>
+    <string name="pref_location_title">Location</string>
+    <string name="pref_location_summary">Enter here your postal code</string>
+
+
+    <string name="pref_units_key" translatable="false">Temperature Units</string>
+    <string name="pref_units_default" translatable="false">Metric</string>
+    <string name="prefs_units_title">Temperature units</string>
+    <string name="pref_units_summary">Choose here the temperature units</string>
+    <string name="pref_choose_dialog_units_title">Choose the temperature units.</string>
+
+    <!-- Strings Arrays -->
+    <string name="pref_units_label_metric">Metric</string>
+    <string name="pref_units_label_imperial">Imperial</string>
+
+    <string name="pref_units_metric" translatable="false">metric</string>
+    <string name="pref_units_imperial" translatable="false">imperial</string>
+
+</resources>
