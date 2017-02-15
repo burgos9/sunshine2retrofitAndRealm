@@ -58,6 +58,7 @@ import retrofit2.Response;
  */
 public class ForecastFragment extends Fragment {
 
+    public static final int NUM_DAYS = 7;
     private static final String TAG = "ForecastFragment";
 
     private ShareActionProvider mShareActionProvider;
@@ -66,6 +67,7 @@ public class ForecastFragment extends Fragment {
 
     private Vector<ContentValues> cVVector;
 
+    List<String> weekForecast = new ArrayList<String>();
 
 
     public ForecastFragment() {
@@ -109,7 +111,7 @@ public class ForecastFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
-        List<String> weekForecast = new ArrayList<String>();
+
 
         // Now that we have some dummy forecast data, create an ArrayAdapter.
         // The ArrayAdapter will take data from a source (like our dummy forecast) and
@@ -149,16 +151,24 @@ public class ForecastFragment extends Fragment {
     }
 
     public void updateWeather() {
-        ApiUtils.getWeatherService().getWeather(WeatherContract.PATH_WEATHER, FetchWeatherTask.FORMAT, FetchWeatherTask.UNITS, "1", BuildConfig.OPEN_WEATHER_MAP_API_KEY).enqueue(new Callback<ApiResponse>() {
+        String location = PreferenceUtils.getInstance(getActivity()).getStringPreference(PreferenceKey.PREF_LOCATION_KEY);
+        ApiUtils.getWeatherService().getWeather(location, FetchWeatherTask.FORMAT, FetchWeatherTask.UNITS,  NUM_DAYS, BuildConfig.OPEN_WEATHER_MAP_API_KEY).enqueue(new Callback<ApiResponse>() {
             @Override
             public void onResponse(Call<ApiResponse> call, Response<ApiResponse> response) {
-                Log.d(TAG, "onResponse: OUR JSON IS ->  " + response.body());
-                //TODO fix this shit
+                Log.d(TAG, String.format("raw JSON response is: %s", response.code()));
+                //TODO fix this to keep doing the units change from the preferences
                 //getWeatherFromJson(response);
-                //TODO add the retrieved data to the adapter
-//                if(call != null && mForecastAdapter != null){
-//
-//                }
+                //TODO add the retrieved data to the adapter properly
+                if(mForecastAdapter != null){
+                    for(int day = 0 ; day < NUM_DAYS; day++){
+                        ApiResponse apiResponse = response.body();
+                        weekForecast.add(apiResponse.getCity().getCityName());
+                        weekForecast.add(apiResponse.getWeatherInfo().get(day).getTemperature().getMaxTemp().toString());
+                        weekForecast.add(apiResponse.getWeatherInfo().get(day).getTemperature().getMinTemp().toString());
+                        weekForecast.add(apiResponse.getWeatherInfo().get(day).getWeather().get(0).getWeatherDesc());
+                        mForecastAdapter.notifyDataSetChanged();
+                    }
+                }
             }
 
             @Override

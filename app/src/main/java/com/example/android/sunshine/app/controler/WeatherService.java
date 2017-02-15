@@ -12,6 +12,6 @@ import retrofit2.http.Query;
 
 public interface WeatherService {
 
-    @GET("/data/2.5/forecast/daily")
-    Call<ApiResponse> getWeather(@Query("q") String cityName, @Query("mode") String dataTransferMode, @Query("units") String tempUnits, @Query("cnt") String numDays, @Query("APPID") String APP_ID);
+    @GET("data/2.5/forecast/daily")
+    Call<ApiResponse> getWeather(@Query("q") String cityName, @Query("mode") String dataTransferMode, @Query("units") String tempUnits, @Query("cnt") int numDays, @Query("APPID") String APP_ID);
 }

@@ -3,57 +3,66 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_8c849b4771f9c3be3b95f3b6af46e0be2a0a6801.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Administrador\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
         sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_7bcaf5fc0408fc1c06e61b82374cebbe216d8968.jar" />
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_7bcaf5fc0408fc1c06e61b82374cebbe216d8968.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\commons\0.8.5.6\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_7420ce866482494c320f64370f003bc4a1a9320c.jar" />
+        sha1="e740f74c711c587cc6d32d37256e0e895f2cdf5c">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\com.github.afollestad.material-dialogs-commons-0.8.5.6_1a6cb5972e024cf68fe926c6c9fa7c8d2ae2e97d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_e37b9ef8742d795bd4a7cff695b74061e8399242.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_23de833748c727c276176d9452f0496e7450c3d9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
         sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_5c1c1d6a33e45b6b1201cef7bef9b9ec81001bb2.jar" />
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_769ad8d27ab2c85c2c80ad0e5eaee9bf5e4ae610.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_7a80382f9f691fc6b32146b1ac68515a6a4a628a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.1.4_0a574670e8f57e882cd9d6ec10474192c45c4938.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_b1b12689e91d5a8f0087b41a2f0b0b52e7543954.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_141f2564c577adc64e7c6d548e65fd4289d5a3ab.jar" />
     </item>
     <item
         is-multidex="false"
@@ -62,7 +71,25 @@
         optimize="true"
         revision="23.0.2"
         sha1="c7eede031a5ad1b0c9a6767391cd42eba6618b72">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\parceler-api-0.2.16_319ea056dca7d801f274ba579b9916c05212362d.jar" />
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\parceler-api-0.2.16_319ea056dca7d801f274ba579b9916c05212362d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\core\0.8.5.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1e9e758b0c20307810a65790e70261d4705a53a9">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\com.github.afollestad.material-dialogs-core-0.8.5.6_7b43aacc50edd7fc4b92e0dd5f37fa43a8010ccc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_235e37162fa2847542c1d738f6fc107607122d62.jar" />
     </item>
     <item
         is-multidex="false"
@@ -71,7 +98,7 @@
         optimize="true"
         revision="23.0.2"
         sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\okio-1.8.0_4ef17bc1df2be24ffc21083f672ecb7e33edd6db.jar" />
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\okio-1.8.0_4ef17bc1df2be24ffc21083f672ecb7e33edd6db.jar" />
     </item>
     <item
         is-multidex="false"
@@ -80,25 +107,16 @@
         optimize="true"
         revision="23.0.2"
         sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_7fe2462f3cdf3e6fcb68fb09d3d0ec66806a3e33.jar" />
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_7fe2462f3cdf3e6fcb68fb09d3d0ec66806a3e33.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.4\jars\classes.jar"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.1.4_793c834396a0842a086fa0f2c282787fc4ab487b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.4.0_a821318b0213db7c4c43b2ebf65004ca9fc47773.jar" />
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_56db275b640141c14b8cc596442937319c849544.jar" />
     </item>
     <item
         is-multidex="false"
@@ -107,7 +125,7 @@
         optimize="true"
         revision="23.0.2"
         sha1="37438b5c380d8eb22bd3ae616077561b7f906ff3">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\parceler-0.2.16_4c220dde2f98a0a63745ef9ed8af1a7fdd71d93a.jar" />
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\parceler-0.2.16_4c220dde2f98a0a63745ef9ed8af1a7fdd71d93a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -116,7 +134,16 @@
         optimize="true"
         revision="23.0.2"
         sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_e5e013c3336533fdd4574e88a8e537d203e79031.jar" />
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_e5e013c3336533fdd4574e88a8e537d203e79031.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_2c17d1819d9ef3399564d790d9aaeb1b1071bcd0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -125,16 +152,34 @@
         optimize="true"
         revision="23.0.2"
         sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\gson-2.7_6363eadb405376c21e48d65a518d8d79229b6be7.jar" />
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\gson-2.7_6363eadb405376c21e48d65a518d8d79229b6be7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_efc27fd9df1c62d7a8e4985e6ffd05467717affa.jar" />
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_f36854734526349def0bf7dce8e0b9aff1316595.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5c142e31656b73442bdc40c7546a9ef2123737ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_d5dcbf5241fa47af1ab8f3d8d2c38d11b49b0789.jar" />
     </item>
     <item
         is-multidex="false"
@@ -143,97 +188,61 @@
         optimize="true"
         revision="23.0.2"
         sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.1.0_7d7a20a13348a1a6ed0949fc7d25a1aaedfae0f2.jar" />
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.1.0_7d7a20a13348a1a6ed0949fc7d25a1aaedfae0f2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_2bbd95a3bb2fc5dab9f69e5a4cc155a0145dcb98.jar" />
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f75064e600318e88013acc2c71b6c0cd8795b057.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.4.0_a6d04ab007148d72ad627e8f85b69c191a7df4af.jar" />
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_a330cd73676543e1ae7e1af178856046710a517d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_042260050dea4afd5f8586d389138c89d44406fd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
         sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_fc35da14f5feccb12b650526bd68461c2d2e8226.jar" />
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_0fb938ec6f5b2b4b13230d7b29ec1c8cc1ef0fdc.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.4.0_7248be9678a4282374df8c2f96ea653f09ac400d.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_803f8ed5b494979c107c3b6d7e2ee74a0c7da580.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_d357f9b5b278c81cc790bf8a6a872ee0fe329475.jar" />
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_2ef9afdd99c1cee31d900169dda1f55b237313c2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.4.0_3b811e0c345be897f976bb8b8fcccdbcd8a1cd0b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_eece08be26e5b9fe9dc7e26a5bbf02e65c25ca0a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_2d323983cf8cfcf846ff2a5d99bf02400600cd92.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_014fde0db72e16bccb5fe8bbffc451c933167e10.jar" />
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e728bebcb31fc23a0c350dd4e68618fbcd3c2efb.jar" />
     </item>
     <item
         is-multidex="false"
@@ -242,88 +251,25 @@
         optimize="true"
         revision="23.0.2"
         sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_ae9b3ba370162919363dfa960413fc1b9575ad69.jar" />
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_ae9b3ba370162919363dfa960413fc1b9575ad69.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_efeafc2acdee0cf169236691bad7b488545a89db.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d28149df2515d58a31e21e096b5d978f52a326af.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_e69f451c05a0d6a61fc43e468570837c93e3cbae.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\commons\0.8.5.6\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="e740f74c711c587cc6d32d37256e0e895f2cdf5c">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.github.afollestad.material-dialogs-commons-0.8.5.6_1ae61d6437edd5a5463b520c1f756699a98245b6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
         sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_62b55f2ac4fab049bccace9a0112c15e94987038.jar" />
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_b94f0fe68d209e4775d3efde0a9bd2e1d68468c8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5d71999733454c8e3e4d3da58e0ae906a8acfbf6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_03dda8e0f176327418c74cac8f1a7b7feaa54fc1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="3b7173b3df4c7029699919414400041f64519e34">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.4.0_46b19da1d4794890e7e4ec6025e593990626e882.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_0d3b3c8598f8bef4cc106bd420fab2751fd5b5d2.jar" />
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_4c0e8cf4f4548513b0d8de982c26fd0273c07925.jar" />
     </item>
     <item
         is-multidex="false"
@@ -332,16 +278,7 @@
         optimize="true"
         revision="23.0.2"
         sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_ae3da2b5954342544669d63a0cbcf0a8a862b346.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\core\0.8.5.6\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="1e9e758b0c20307810a65790e70261d4705a53a9">
-        <dex dex="C:\Users\Administrador\Documents\GR\OP\Sunshine\app\build\intermediates\pre-dexed\debug\com.github.afollestad.material-dialogs-core-0.8.5.6_1961797cce78e589fb608890a00b7fc7ef80ccd8.jar" />
+        <dex dex="C:\Users\Administrador\Documents\GR\OP\github\Sunshine\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_ae3da2b5954342544669d63a0cbcf0a8a862b346.jar" />
     </item>
 
 </items>

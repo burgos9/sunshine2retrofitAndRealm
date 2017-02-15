@@ -37,11 +37,6 @@
                 android:value=".ui.MainActivity" />
         </activity>
 
-        <service android:name=".controler.MyFirebaseMessagingService">
-            <intent-filter>
-                <action android:name="com.google.firebase.MESSAGING_EVENT"></action>
-            </intent-filter>
-        </service>
 
         <provider
             android:authorities="com.example.android.sunshine.app"

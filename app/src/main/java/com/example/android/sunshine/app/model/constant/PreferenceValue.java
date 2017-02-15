@@ -8,4 +8,5 @@ public interface PreferenceValue {
     String PREF_DEFAULT_STRING = "";
     int PREF_DEFAULT_INT = -1;
     boolean PREF_DEFAULT_BOOL = false;
+
 }

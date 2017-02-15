@@ -26,6 +26,7 @@
 
     <string name="pref_location_key" translatable="false" >location</string>
     <string name="pref_location_default" translatable="false" >48015</string>
+    <string name="pref_location_city_default" translatable="false" >bilbao</string>
     <string name="pref_location_title">Location</string>
     <string name="pref_location_summary">Enter here your postal code</string>
 

@@ -4,6 +4,8 @@ import com.google.gson.annotations.SerializedName;
 
 import org.parceler.Parcel;
 
+import java.util.ArrayList;
+
 /**
  * Created by Administrador on 25/01/2017.
  */
@@ -27,7 +29,7 @@ public class WeatherInfo {
     private Integer windDirection;
 
     @SerializedName("weather")
-    private Weather weather;
+    private ArrayList<Weather> weather;
 
 
     public Temperature getTemperature() {
@@ -38,11 +40,11 @@ public class WeatherInfo {
         this.temperature = temperature;
     }
 
-    public Weather getWeather() {
+    public ArrayList<Weather> getWeather() {
         return weather;
     }
 
-    public void setWeather(Weather weather) {
+    public void setWeather(ArrayList<Weather> weather) {
         this.weather = weather;
     }
 
@@ -77,4 +79,6 @@ public class WeatherInfo {
     public void setPressure(Double pressure) {
         this.pressure = pressure;
     }
+
+
 }
